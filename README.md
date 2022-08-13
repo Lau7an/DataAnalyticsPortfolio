@@ -1,2 +1,4 @@
-# DataAnalyticsPortfolio
-A collection of my favorite Data Analytics Python tools and Jupyter Notebooks
+## Name: Lauran Ando
+## Linkedin: https://www.linkedin.com/in/laur-an/ 
+
+# Data Analytics Portfolio
